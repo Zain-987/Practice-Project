@@ -13,7 +13,7 @@ function App() {
             >
               Angle Brackets Mobile App development experts
             </h1>
-            <p className="text-base text-center text-[#b2bec3] w-full font-thin ">
+            <p className="text-base text-center text-[#b2bec3] w-full font-thin sm:text-xl text-sm">
               Angle Brackets will quickly assemble a team of Front-end
               developers for your needs
             </p>
