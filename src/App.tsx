@@ -1,4 +1,3 @@
-import { useState, useRef, useEffect } from "react";
 import CardContainer from "./components/CardContainer";
 
 function App() {
